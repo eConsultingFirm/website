@@ -556,7 +556,7 @@ transition:all .35s ease
 -o-transition:all .35s ease
 }
 .btn:after {
-	content:'\f105';
+
 	font-family:FontAwesome;
 	color:#fff;
 	line-height:1;
